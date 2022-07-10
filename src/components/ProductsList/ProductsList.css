@@ -1,0 +1,27 @@
+.search {
+  width: 75%;
+  margin-top: 20px !important;
+}
+.search-box {
+  display: flex;
+  justify-content: center;
+  background-color: antiquewhite;
+  padding-bottom: 20px;
+  width: 60%;
+  margin-left: 20%;
+}
+.slider {
+  margin: 20px auto;
+}
+.content {
+  margin: 5%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.pagination {
+  background-color: antiquewhite;
+  border-radius: 30%;
+}
+.pagination-content {
+  padding: 10px;
+}

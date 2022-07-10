@@ -1,0 +1,12 @@
+.hometext {
+  color: antiquewhite;
+  font-weight: 900;
+  font-size: xx-large;
+  background-color: black;
+}
+.homelogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}

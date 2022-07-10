@@ -1,0 +1,9 @@
+.shop-cart-button {
+  float: right;
+  cursor: pointer;
+  transition: color 500ms ease;
+}
+
+.shop-cart-button:hover {
+  color: gold;
+}

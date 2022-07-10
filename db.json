@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "11221121",
+      "description": "313113",
+      "price": 13131313,
+      "image": "dswdswdwdw",
+      "id": 3
+    },
+    {
+      "title": "qw",
+      "description": "qeqe",
+      "price": 1212,
+      "image": "121331",
+      "id": 4
+    },
+    {
+      "title": "авпапа",
+      "description": "5345345",
+      "price": 453534,
+      "image": "пукпукпукпку",
+      "id": 5
+    },
+    {
+      "title": "Cheeseburger",
+      "description": "Our simple, classic cheeseburger begins with a 100% pure beef burger seasoned with just a pinch of salt and pepper. The McDonald’s Cheeseburger is topped with a tangy pickle, chopped onions, ketchup, mustard, and a slice of melty American cheese. It contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like. For more delicious burger variations explore the McDonald’s burger menu.",
+      "price": 180,
+      "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Cheeseburger-1:product-header-desktop?wid=829&hei=455&dpr=off",
+      "id": 8
+    },
+    {
+      "title": "hamburger2",
+      "description": "250 Cal.250 Cal. The original burger starts with a 100% pure beef burger seasoned with just a pinch of salt and pepper. Then, the McDonald’s burger is topped with a tangy pickle, chopped onions, ketchup and mustard. McDonald’s hamburger contains no artificial flavors, preservatives or added colors from artificial sources.* Our pickle contains an artificial preservative, so skip it if you like.",
+      "price": 220,
+      "image": "https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-Hamburger:product-header-desktop?wid=829&hei=455&dpr=off",
+      "id": 10
+    }
+  ]
+}
